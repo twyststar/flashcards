@@ -1,6 +1,4 @@
-# _{Application Name}_
-
-#### _{Brief description of application}, {Date of current version}_
+# _JS Flashcards_
 
 #### By _**Anna Horodetska and Starlynne Start**_
 
